@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: sid995/assignment8:latest
+          tags: maniteja1998/assignment8:latest
